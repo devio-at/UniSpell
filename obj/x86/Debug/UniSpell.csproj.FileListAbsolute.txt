@@ -1,0 +1,7 @@
+D:\projects\blogprog\UniSpell\bin\Debug\UniSpell.exe
+D:\projects\blogprog\UniSpell\bin\Debug\UniSpell.pdb
+D:\projects\blogprog\UniSpell\obj\x86\Debug\UniSpell.Form1.resources
+D:\projects\blogprog\UniSpell\obj\x86\Debug\UniSpell.Properties.Resources.resources
+D:\projects\blogprog\UniSpell\obj\x86\Debug\UniSpell.exe
+D:\projects\blogprog\UniSpell\obj\x86\Debug\UniSpell.pdb
+D:\projects\blogprog\UniSpell\obj\x86\Debug\UniSpell.csproj.GenerateResource.Cache
